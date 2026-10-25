@@ -1,0 +1,41 @@
+function,role,allowed
+View dashboard,Administrator,Yes
+View dashboard,Safety Officer,Yes
+View dashboard,Mining Engineer,Yes
+View dashboard,Maintenance Engineer,Yes
+View dashboard,Manager,Yes
+Worker safety data,Administrator,Yes
+Worker safety data,Safety Officer,Yes
+Worker safety data,Mining Engineer,Yes
+Worker safety data,Maintenance Engineer,No
+Worker safety data,Manager,Yes
+Safety incidents,Administrator,Yes
+Safety incidents,Safety Officer,Yes
+Safety incidents,Mining Engineer,Yes
+Safety incidents,Maintenance Engineer,No
+Safety incidents,Manager,Yes
+Equipment data,Administrator,Yes
+Equipment data,Safety Officer,No
+Equipment data,Mining Engineer,Yes
+Equipment data,Maintenance Engineer,Yes
+Equipment data,Manager,Yes
+Maintenance data,Administrator,Yes
+Maintenance data,Safety Officer,No
+Maintenance data,Mining Engineer,Yes
+Maintenance data,Maintenance Engineer,Yes
+Maintenance data,Manager,Yes
+Risk assessment,Administrator,Yes
+Risk assessment,Safety Officer,Yes
+Risk assessment,Mining Engineer,Yes
+Risk assessment,Maintenance Engineer,No
+Risk assessment,Manager,Yes
+Generate reports,Administrator,Yes
+Generate reports,Safety Officer,Yes
+Generate reports,Mining Engineer,Yes
+Generate reports,Maintenance Engineer,Yes
+Generate reports,Manager,Yes
+Manage users,Administrator,Yes
+Manage users,Safety Officer,No
+Manage users,Mining Engineer,No
+Manage users,Maintenance Engineer,No
+Manage users,Manager,No

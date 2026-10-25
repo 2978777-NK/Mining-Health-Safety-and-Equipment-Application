@@ -1,0 +1,142 @@
+maintenance_id,equipment_id,maintenance_date,maintenance_type,technician,maintenance_hours,status,notes
+M0001,CRU-002,2025-05-25,Preventive,T. Radebe,6.5,Completed,Scheduled service and lubrication
+M0002,DOZ-002,2025-07-07,Inspection,M. Sithole,2.2,Completed,Routine condition inspection
+M0003,CRU-002,2025-08-04,Corrective,P. van Wyk,10.3,Completed,Component replaced after inspection finding
+M0004,TRK-012,2025-08-31,Preventive,K. Baloyi,4.4,Completed,Scheduled service and lubrication
+M0005,SCW-002,2025-09-03,Preventive,K. Baloyi,8.1,Completed,Scheduled service and lubrication
+M0006,DOZ-002,2025-09-08,Corrective,Z. Ndlovu,12.8,Completed,Component replaced after inspection finding
+M0007,EXC-004,2025-09-10,Preventive,F. Pretorius,6.8,Completed,Scheduled service and lubrication
+M0008,CRU-002,2025-09-13,Preventive,Z. Ndlovu,5.7,Completed,Scheduled service and lubrication
+M0009,EXC-002,2025-09-21,Preventive,Z. Ndlovu,9.4,Completed,Scheduled service and lubrication
+M0010,TRK-003,2025-10-07,Corrective,Z. Ndlovu,14.6,Completed,Component replaced after inspection finding
+M0011,TRK-012,2025-10-17,Corrective,M. Sithole,16.4,Completed,Component replaced after inspection finding
+M0012,DOZ-002,2025-10-26,Inspection,Z. Ndlovu,1.8,Completed,Routine condition inspection
+M0013,DOZ-003,2025-10-26,Corrective,Z. Ndlovu,10.3,Completed,Component replaced after inspection finding
+M0014,LDR-002,2025-11-03,Corrective,T. Radebe,12.6,Completed,Component replaced after inspection finding
+M0015,TRK-004,2025-11-10,Inspection,F. Pretorius,1.1,Completed,Routine condition inspection
+M0016,EXC-004,2025-11-13,Preventive,T. Radebe,10.0,Completed,Scheduled service and lubrication
+M0017,CNV-003,2025-11-14,Preventive,P. van Wyk,4.7,Completed,Scheduled service and lubrication
+M0018,SCW-002,2025-11-15,Preventive,T. Radebe,4.6,Completed,Scheduled service and lubrication
+M0019,EXC-002,2025-11-20,Preventive,K. Baloyi,9.0,Completed,Scheduled service and lubrication
+M0020,TRK-012,2025-11-21,Preventive,F. Pretorius,7.7,Completed,Scheduled service and lubrication
+M0021,CRU-002,2025-11-25,Corrective,T. Radebe,22.1,Completed,Component replaced after inspection finding
+M0022,CRU-001,2025-11-26,Preventive,P. van Wyk,5.0,Completed,Scheduled service and lubrication
+M0023,TRK-005,2025-12-03,Corrective,T. Radebe,10.5,Completed,Component replaced after inspection finding
+M0024,TRK-003,2025-12-07,Inspection,F. Pretorius,2.2,Completed,Routine condition inspection
+M0025,DOZ-003,2025-12-11,Corrective,P. van Wyk,7.2,Completed,Component replaced after inspection finding
+M0026,CNV-002,2025-12-24,Breakdown Repair,K. Baloyi,27.4,Completed,Unplanned failure repair
+M0027,DOZ-002,2025-12-26,Inspection,Z. Ndlovu,1.6,Completed,Routine condition inspection
+M0028,SCW-003,2025-12-27,Preventive,F. Pretorius,4.6,Completed,Scheduled service and lubrication
+M0029,LDR-004,2026-01-01,Preventive,T. Radebe,8.7,Completed,Scheduled service and lubrication
+M0030,TRK-001,2026-01-01,Preventive,P. van Wyk,7.8,Completed,Scheduled service and lubrication
+M0031,CNV-003,2026-01-03,Inspection,Z. Ndlovu,2.0,Completed,Routine condition inspection
+M0032,EXC-004,2026-01-03,Preventive,T. Radebe,9.3,Completed,Scheduled service and lubrication
+M0033,DRL-002,2026-01-06,Inspection,F. Pretorius,2.5,Completed,Routine condition inspection
+M0034,CNV-001,2026-01-07,Corrective,K. Baloyi,12.2,Completed,Component replaced after inspection finding
+M0035,CRU-001,2026-01-08,Corrective,F. Pretorius,9.3,Completed,Component replaced after inspection finding
+M0036,EXC-001,2026-01-08,Inspection,F. Pretorius,3.3,Completed,Routine condition inspection
+M0037,LDR-002,2026-01-08,Inspection,P. van Wyk,2.8,Completed,Routine condition inspection
+M0038,CNV-004,2026-01-10,Preventive,T. Radebe,6.5,Completed,Scheduled service and lubrication
+M0039,CRU-002,2026-01-12,Corrective,M. Sithole,10.3,Completed,Component replaced after inspection finding
+M0040,TRK-005,2026-01-14,Inspection,T. Radebe,2.1,Completed,Routine condition inspection
+M0041,SCW-002,2026-01-15,Breakdown Repair,Z. Ndlovu,20.7,Completed,Unplanned failure repair
+M0042,TRK-012,2026-01-15,Preventive,P. van Wyk,6.9,Completed,Scheduled service and lubrication
+M0043,EXC-002,2026-01-16,Inspection,M. Sithole,2.4,Completed,Routine condition inspection
+M0044,TRK-004,2026-01-20,Preventive,P. van Wyk,4.3,Completed,Scheduled service and lubrication
+M0045,LDR-003,2026-01-23,Breakdown Repair,K. Baloyi,39.9,Completed,Unplanned failure repair
+M0046,TRK-003,2026-02-08,Preventive,M. Sithole,5.4,Completed,Scheduled service and lubrication
+M0047,LDR-002,2026-02-12,Inspection,M. Sithole,1.8,Completed,Routine condition inspection
+M0048,SCW-003,2026-02-14,Inspection,K. Baloyi,1.7,Completed,Routine condition inspection
+M0049,CNV-002,2026-02-17,Corrective,F. Pretorius,22.0,Completed,Component replaced after inspection finding
+M0050,LDR-004,2026-02-17,Preventive,P. van Wyk,5.7,Completed,Scheduled service and lubrication
+M0051,DOZ-003,2026-02-20,Breakdown Repair,F. Pretorius,28.7,Completed,Unplanned failure repair
+M0052,EXC-004,2026-02-21,Corrective,T. Radebe,16.2,Completed,Component replaced after inspection finding
+M0053,SCW-002,2026-02-21,Breakdown Repair,Z. Ndlovu,26.3,Completed,Unplanned failure repair
+M0054,DOZ-002,2026-02-24,Preventive,P. van Wyk,4.4,Completed,Scheduled service and lubrication
+M0055,TRK-002,2026-02-24,Corrective,M. Sithole,16.6,Completed,Component replaced after inspection finding
+M0056,SCW-001,2026-02-25,Preventive,M. Sithole,9.4,Completed,Scheduled service and lubrication
+M0057,DRL-001,2026-02-26,Corrective,M. Sithole,16.7,Completed,Component replaced after inspection finding
+M0058,TRK-005,2026-02-26,Corrective,T. Radebe,21.4,Completed,Component replaced after inspection finding
+M0059,CRU-001,2026-02-27,Preventive,T. Radebe,4.4,Completed,Scheduled service and lubrication
+M0060,TRK-004,2026-02-28,Inspection,K. Baloyi,1.8,Completed,Routine condition inspection
+M0061,CNV-004,2026-03-01,Inspection,Z. Ndlovu,1.1,Completed,Routine condition inspection
+M0062,TRK-001,2026-03-02,Inspection,F. Pretorius,3.1,Completed,Routine condition inspection
+M0063,TRK-012,2026-03-05,Preventive,T. Radebe,7.5,Completed,Scheduled service and lubrication
+M0064,DRL-002,2026-03-06,Preventive,K. Baloyi,9.8,Completed,Scheduled service and lubrication
+M0065,EXC-002,2026-03-07,Preventive,T. Radebe,7.8,Completed,Scheduled service and lubrication
+M0066,LDR-001,2026-03-07,Inspection,F. Pretorius,3.9,Completed,Routine condition inspection
+M0067,CNV-003,2026-03-09,Preventive,K. Baloyi,8.1,Completed,Scheduled service and lubrication
+M0068,CNV-001,2026-03-13,Preventive,K. Baloyi,4.2,Completed,Scheduled service and lubrication
+M0069,EXC-001,2026-03-17,Inspection,K. Baloyi,3.4,Completed,Routine condition inspection
+M0070,DRL-003,2026-03-22,Preventive,M. Sithole,8.4,Completed,Scheduled service and lubrication
+M0071,LDR-003,2026-03-23,Inspection,K. Baloyi,2.7,Completed,Routine condition inspection
+M0072,CRU-002,2026-03-28,Preventive,Z. Ndlovu,7.2,Completed,Scheduled service and lubrication
+M0073,SCW-002,2026-03-28,Inspection,F. Pretorius,1.1,Completed,Routine condition inspection
+M0074,DOZ-002,2026-04-02,Preventive,F. Pretorius,5.9,Completed,Scheduled service and lubrication
+M0075,SCW-003,2026-04-04,Corrective,Z. Ndlovu,19.2,Completed,Component replaced after inspection finding
+M0076,CNV-002,2026-04-06,Preventive,P. van Wyk,8.1,Completed,Scheduled service and lubrication
+M0077,TRK-004,2026-04-07,Preventive,K. Baloyi,8.9,Completed,Scheduled service and lubrication
+M0078,DOZ-001,2026-04-09,Preventive,T. Radebe,7.7,Completed,Scheduled service and lubrication
+M0079,TRK-002,2026-04-10,Corrective,P. van Wyk,11.6,Completed,Component replaced after inspection finding
+M0080,TRK-003,2026-04-10,Preventive,M. Sithole,7.3,Completed,Scheduled service and lubrication
+M0081,LDR-002,2026-04-12,Inspection,F. Pretorius,3.5,Completed,Routine condition inspection
+M0082,CNV-001,2026-04-19,Corrective,Z. Ndlovu,20.2,Completed,Component replaced after inspection finding
+M0083,CNV-004,2026-04-19,Inspection,T. Radebe,3.3,Completed,Routine condition inspection
+M0084,DOZ-003,2026-04-19,Preventive,T. Radebe,9.5,Completed,Scheduled service and lubrication
+M0085,TRK-005,2026-04-20,Preventive,F. Pretorius,8.0,Completed,Scheduled service and lubrication
+M0086,EXC-002,2026-04-21,Inspection,M. Sithole,1.9,Completed,Routine condition inspection
+M0087,LDR-004,2026-04-22,Preventive,M. Sithole,6.0,Completed,Scheduled service and lubrication
+M0088,CNV-003,2026-04-23,Corrective,F. Pretorius,12.2,Completed,Component replaced after inspection finding
+M0089,LDR-001,2026-04-24,Preventive,P. van Wyk,4.6,Completed,Scheduled service and lubrication
+M0090,DRL-001,2026-04-25,Corrective,P. van Wyk,12.9,Completed,Component replaced after inspection finding
+M0091,CRU-001,2026-04-27,Preventive,F. Pretorius,8.2,Completed,Scheduled service and lubrication
+M0092,EXC-003,2026-04-27,Inspection,T. Radebe,2.8,Completed,Routine condition inspection
+M0093,TRK-001,2026-04-28,Corrective,Z. Ndlovu,11.0,Completed,Component replaced after inspection finding
+M0094,EXC-001,2026-05-06,Preventive,Z. Ndlovu,6.8,Completed,Scheduled service and lubrication
+M0095,EXC-004,2026-05-06,Preventive,M. Sithole,4.3,Completed,Scheduled service and lubrication
+M0096,DRL-002,2026-05-07,Inspection,M. Sithole,3.8,Completed,Routine condition inspection
+M0097,SCW-001,2026-05-08,Preventive,Z. Ndlovu,4.5,Completed,Scheduled service and lubrication
+M0098,DOZ-001,2026-05-20,Corrective,T. Radebe,20.0,Completed,Component replaced after inspection finding
+M0099,DRL-003,2026-05-21,Preventive,M. Sithole,5.4,Completed,Scheduled service and lubrication
+M0100,LDR-003,2026-05-28,Preventive,M. Sithole,8.0,Completed,Scheduled service and lubrication
+M0101,EXC-002,2026-06-01,Preventive,M. Sithole,7.7,Completed,Scheduled service and lubrication
+M0102,SCW-002,2026-06-05,Preventive,T. Radebe,4.8,Completed,Scheduled service and lubrication
+M0103,EXC-003,2026-06-06,Preventive,M. Sithole,6.4,Completed,Scheduled service and lubrication
+M0104,SCW-003,2026-06-06,Inspection,P. van Wyk,1.8,Completed,Routine condition inspection
+M0105,CNV-003,2026-06-10,Preventive,F. Pretorius,9.8,Completed,Scheduled service and lubrication
+M0106,TRK-001,2026-06-10,Preventive,F. Pretorius,8.6,Completed,Scheduled service and lubrication
+M0107,CNV-002,2026-06-11,Corrective,M. Sithole,10.2,Completed,Component replaced after inspection finding
+M0108,DRL-001,2026-06-12,Inspection,M. Sithole,1.7,Completed,Routine condition inspection
+M0109,CNV-004,2026-06-15,Preventive,M. Sithole,6.2,Completed,Scheduled service and lubrication
+M0110,LDR-002,2026-06-15,Preventive,M. Sithole,6.3,Completed,Scheduled service and lubrication
+M0111,TRK-004,2026-06-16,Preventive,Z. Ndlovu,4.3,Completed,Scheduled service and lubrication
+M0112,EXC-001,2026-06-17,Inspection,T. Radebe,2.7,Completed,Routine condition inspection
+M0113,CNV-001,2026-06-18,Preventive,M. Sithole,6.7,Completed,Scheduled service and lubrication
+M0114,TRK-005,2026-06-19,Inspection,Z. Ndlovu,3.8,Completed,Routine condition inspection
+M0115,TRK-002,2026-06-20,Preventive,F. Pretorius,6.7,Completed,Scheduled service and lubrication
+M0116,LDR-001,2026-06-21,Preventive,P. van Wyk,8.8,Completed,Scheduled service and lubrication
+M0117,CRU-001,2026-06-24,Inspection,M. Sithole,2.7,Completed,Routine condition inspection
+M0118,CRU-003,2026-06-27,Preventive,F. Pretorius,5.7,Completed,Scheduled service and lubrication
+M0119,DRL-002,2026-06-28,Preventive,Z. Ndlovu,5.5,Completed,Scheduled service and lubrication
+M0120,DOZ-003,2026-06-30,Preventive,K. Baloyi,9.0,Completed,Scheduled service and lubrication
+M0121,EXC-004,2026-07-12,Preventive,F. Pretorius,8.0,Completed,Scheduled service and lubrication
+M0122,EXC-003,2026-07-13,Inspection,P. van Wyk,3.9,Completed,Routine condition inspection
+M0123,DRL-003,2026-07-18,Preventive,M. Sithole,4.0,Completed,Scheduled service and lubrication
+M0124,SCW-001,2026-07-22,Preventive,M. Sithole,6.9,Completed,Scheduled service and lubrication
+M0125,TRK-005,2026-07-25,Preventive,Z. Ndlovu,4.0,Completed,Scheduled service and lubrication
+M0126,CNV-002,2026-07-28,Preventive,M. Sithole,8.6,Completed,Scheduled service and lubrication
+M0127,LDR-003,2026-07-30,Preventive,Z. Ndlovu,6.6,Completed,Scheduled service and lubrication
+M0128,DOZ-001,2026-08-01,Preventive,K. Baloyi,5.7,Completed,Scheduled service and lubrication
+M0129,TRK-001,2026-08-02,Preventive,K. Baloyi,8.4,Completed,Scheduled service and lubrication
+M0130,CRU-003,2026-08-04,Corrective,T. Radebe,9.9,Completed,Component replaced after inspection finding
+M0131,EXC-001,2026-08-05,Preventive,P. van Wyk,5.7,Completed,Scheduled service and lubrication
+M0132,CNV-004,2026-08-06,Preventive,M. Sithole,7.0,Completed,Scheduled service and lubrication
+M0133,SCW-003,2026-08-08,Preventive,K. Baloyi,9.9,Completed,Scheduled service and lubrication
+M0134,LDR-001,2026-08-10,Preventive,P. van Wyk,9.5,Completed,Scheduled service and lubrication
+M0135,CRU-001,2026-08-12,Preventive,T. Radebe,9.2,Completed,Scheduled service and lubrication
+M0136,DRL-001,2026-08-14,Preventive,T. Radebe,4.8,Completed,Scheduled service and lubrication
+M0137,CNV-001,2026-08-15,Preventive,K. Baloyi,5.8,Completed,Scheduled service and lubrication
+M0138,TRK-004,2026-08-18,Preventive,K. Baloyi,8.7,Completed,Scheduled service and lubrication
+M0139,DOZ-003,2026-08-20,Preventive,F. Pretorius,4.6,Completed,Scheduled service and lubrication
+M0140,EXC-003,2026-09-12,Corrective,K. Baloyi,8.9,In Progress,Component replaced after inspection finding
+M0141,CRU-003,2026-09-20,Corrective,Z. Ndlovu,13.2,In Progress,Component replaced after inspection finding

@@ -1,0 +1,61 @@
+risk_id,date,department,location,hazard,likelihood,consequence,assessed_by,control_measures
+R001,2026-05-19,Surface Logistics,Loading Bay,Fatigue on night shift driving,4,4,L. Molefe,PPE and supervision
+R002,2026-08-26,Maintenance Workshop,Welding Bay,Poor lighting at ramp,3,3,L. Molefe,Barricading and signage
+R003,2026-09-04,Processing Plant,Milling Circuit,Working at height on crusher,3,3,K. Nkosi,Administrative controls
+R004,2026-03-07,Processing Plant,Conveyor Gallery,Working at height on crusher,4,4,K. Nkosi,Training and procedure review
+R005,2026-04-17,Maintenance Workshop,Tyre Bay,Tyre blow-out during servicing,3,4,K. Nkosi,Barricading and signage
+R006,2026-05-17,Engineering Services,Core Shed,Poor lighting at ramp,3,2,N. Khumalo,Barricading and signage
+R007,2026-05-08,Maintenance Workshop,Welding Bay,Unguarded rotating equipment,2,3,L. Molefe,Training and procedure review
+R008,2026-03-14,Processing Plant,Control Room,Conveyor entanglement,2,5,L. Molefe,PPE and supervision
+R009,2026-01-09,Underground Operations,Level 12 Stope,Heat stress underground,5,3,S. Dlamini,Barricading and signage
+R010,2026-08-25,Underground Operations,Level 12 Stope,Heat stress underground,5,3,K. Nkosi,Training and procedure review
+R011,2026-05-19,Maintenance Workshop,Welding Bay,Manual handling of heavy components,3,1,N. Khumalo,Training and procedure review
+R012,2026-03-21,Open Pit Operations,Pit North Bench,Pit wall instability,1,5,K. Nkosi,Administrative controls
+R013,2026-02-10,Maintenance Workshop,Tyre Bay,Tyre blow-out during servicing,2,3,S. Dlamini,Training and procedure review
+R014,2026-07-05,Engineering Services,Core Shed,Manual handling of heavy components,4,2,S. Dlamini,Engineering controls
+R015,2026-06-05,Underground Operations,Level 12 Stope,Ventilation failure underground,2,5,L. Molefe,Training and procedure review
+R016,2026-04-25,Underground Operations,Shaft 1,Unguarded rotating equipment,4,3,L. Molefe,Engineering controls
+R017,2026-02-17,Open Pit Operations,Waste Dump,Pit wall instability,2,5,L. Molefe,Engineering controls
+R018,2026-07-11,Engineering Services,Survey Office,Electrical isolation failure,2,5,L. Molefe,Engineering controls
+R019,2026-05-31,Maintenance Workshop,Workshop Bay 2,Electrical isolation failure,3,5,L. Molefe,Administrative controls
+R020,2026-09-02,Maintenance Workshop,Tyre Bay,Tyre blow-out during servicing,3,4,N. Khumalo,Administrative controls
+R021,2026-06-02,Open Pit Operations,Blast Area B,Haul truck / light vehicle interaction,3,5,L. Molefe,Training and procedure review
+R022,2026-07-08,Maintenance Workshop,Welding Bay,Fire in diesel workshop,3,4,N. Khumalo,PPE and supervision
+R023,2026-09-16,Processing Plant,Conveyor Gallery,Working at height on crusher,3,3,L. Molefe,PPE and supervision
+R024,2026-04-12,Underground Operations,Shaft 1,Fall of ground in stope,4,5,L. Molefe,Administrative controls
+R025,2026-06-03,Underground Operations,Decline Ramp,Unguarded rotating equipment,2,4,K. Nkosi,Barricading and signage
+R026,2026-04-19,Underground Operations,Level 8 Haulage,Haul truck / light vehicle interaction,4,5,L. Molefe,Administrative controls
+R027,2026-09-20,Processing Plant,Crusher Station,Chemical spill at plant,3,3,K. Nkosi,Engineering controls
+R028,2026-02-21,Engineering Services,Survey Office,Brake failure on haul road,2,5,N. Khumalo,Barricading and signage
+R029,2026-09-11,Surface Logistics,Haul Road 3,Electrical isolation failure,2,4,S. Dlamini,Administrative controls
+R030,2026-07-16,Engineering Services,Survey Office,Fatigue on night shift driving,3,4,K. Nkosi,PPE and supervision
+R031,2026-06-03,Engineering Services,Site Offices,Manual handling of heavy components,5,1,S. Dlamini,Administrative controls
+R032,2026-06-28,Processing Plant,Milling Circuit,Dust exposure in crusher area,3,3,N. Khumalo,Training and procedure review
+R033,2026-06-28,Open Pit Operations,Pit South Ramp,Manual handling of heavy components,4,1,N. Khumalo,PPE and supervision
+R034,2026-03-06,Processing Plant,Crusher Station,Slips on wet walkways,5,1,L. Molefe,Engineering controls
+R035,2026-02-07,Open Pit Operations,Waste Dump,Slips on wet walkways,4,2,L. Molefe,Administrative controls
+R036,2026-08-11,Surface Logistics,Haul Road 3,Haul truck / light vehicle interaction,4,4,L. Molefe,PPE and supervision
+R037,2026-01-04,Open Pit Operations,Waste Dump,Pit wall instability,2,5,N. Khumalo,Engineering controls
+R038,2026-02-03,Processing Plant,Milling Circuit,Dust exposure in crusher area,3,3,N. Khumalo,PPE and supervision
+R039,2026-01-05,Open Pit Operations,Pit South Ramp,Pit wall instability,3,4,L. Molefe,Engineering controls
+R040,2026-01-29,Processing Plant,Milling Circuit,Noise exposure at milling circuit,5,2,S. Dlamini,Engineering controls
+R041,2026-04-06,Engineering Services,Site Offices,Fatigue on night shift driving,5,4,L. Molefe,Engineering controls
+R042,2026-08-24,Processing Plant,Crusher Station,Dust exposure in crusher area,4,3,N. Khumalo,Training and procedure review
+R043,2026-03-07,Processing Plant,Conveyor Gallery,Fatigue on night shift driving,4,3,N. Khumalo,Barricading and signage
+R044,2026-06-10,Underground Operations,Shaft 1,Heat stress underground,4,3,K. Nkosi,PPE and supervision
+R045,2026-08-31,Underground Operations,Level 8 Haulage,Heat stress underground,3,3,N. Khumalo,Barricading and signage
+R046,2026-05-08,Processing Plant,Conveyor Gallery,Conveyor entanglement,2,5,N. Khumalo,Barricading and signage
+R047,2026-08-31,Surface Logistics,Haul Road 3,Poor lighting at ramp,4,3,L. Molefe,PPE and supervision
+R048,2026-02-05,Processing Plant,Conveyor Gallery,Working at height on crusher,4,4,L. Molefe,PPE and supervision
+R049,2026-04-13,Surface Logistics,Haul Road 3,Manual handling of heavy components,5,2,K. Nkosi,Training and procedure review
+R050,2026-04-05,Processing Plant,Milling Circuit,Working at height on crusher,2,4,L. Molefe,PPE and supervision
+R051,2026-02-04,Maintenance Workshop,Tyre Bay,Fire in diesel workshop,3,4,L. Molefe,Administrative controls
+R052,2026-05-08,Open Pit Operations,Pit North Bench,Blast flyrock in pit,2,5,N. Khumalo,PPE and supervision
+R053,2026-06-30,Maintenance Workshop,Tyre Bay,Manual handling of heavy components,5,2,L. Molefe,Barricading and signage
+R054,2026-01-24,Processing Plant,Milling Circuit,Chemical spill at plant,3,3,N. Khumalo,Administrative controls
+R055,2026-09-18,Maintenance Workshop,Workshop Bay 2,Tyre blow-out during servicing,4,3,K. Nkosi,Training and procedure review
+R056,2026-02-07,Processing Plant,Conveyor Gallery,Working at height on crusher,4,4,L. Molefe,Administrative controls
+R057,2026-06-23,Maintenance Workshop,Welding Bay,Fire in diesel workshop,2,4,L. Molefe,Barricading and signage
+R058,2026-09-13,Processing Plant,Control Room,Unguarded rotating equipment,4,4,S. Dlamini,Training and procedure review
+R059,2026-08-03,Processing Plant,Crusher Station,Noise exposure at milling circuit,4,2,S. Dlamini,PPE and supervision
+R060,2026-05-09,Open Pit Operations,Blast Area B,Unguarded rotating equipment,3,3,L. Molefe,Engineering controls
